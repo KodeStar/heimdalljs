@@ -23,6 +23,7 @@ export default {
     no: 'Ні',
     email: 'Ел. пошта',
     avatar: 'Аватар',
+    username: 'Ім\'я користувача',
     password: 'Пароль',
     failed: 'Не вдалося виконати дію',
     success: 'Дія була успішною',
