@@ -23,6 +23,7 @@ export default {
     no: 'Nei',
     email: 'E-post',
     avatar: 'Profilbilde',
+    username: 'Brukernavn',
     password: 'Passord',
     failed: 'Handlingen mislyktes',
     success: 'Handlingen var vellykket',
