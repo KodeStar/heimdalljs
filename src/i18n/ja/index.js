@@ -23,6 +23,7 @@ export default {
     no: 'いいえ',
     email: 'E-mail',
     avatar: 'アバター',
+    username: 'ユーザー名',
     password: 'パスワード：',
     failed: '操作に失敗しました',
     success: 'アクションが成功しました',
