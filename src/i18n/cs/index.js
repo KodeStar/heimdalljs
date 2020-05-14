@@ -23,6 +23,7 @@ export default {
     no: 'Ne',
     email: 'E-mailová adresa',
     avatar: 'Avatar',
+    username: 'Uživatelské jméno',
     password: 'Heslo',
     failed: 'Akce se nezdařila',
     success: 'Akce byla úspěšná',
