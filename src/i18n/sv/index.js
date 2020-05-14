@@ -23,6 +23,7 @@ export default {
     no: 'Nej',
     email: 'E-post',
     avatar: 'Profilbild',
+    username: 'Användarnamn',
     password: 'Lösenord',
     failed: 'Åtgärden misslyckades',
     success: 'Åtgärden lyckades',
