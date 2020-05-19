@@ -23,6 +23,7 @@ export default {
     no: '否',
     email: '电子邮件地址',
     avatar: '头像',
+    username: '用户名',
     password: '密码',
     failed: '操作失败',
     success: '行动成功',

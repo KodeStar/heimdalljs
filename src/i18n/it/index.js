@@ -23,6 +23,7 @@ export default {
     no: 'No',
     email: 'Email',
     avatar: 'Avatar',
+    username: 'Nome',
     password: 'Password',
     failed: 'Azione non riuscita',
     success: 'Azione riuscita',
